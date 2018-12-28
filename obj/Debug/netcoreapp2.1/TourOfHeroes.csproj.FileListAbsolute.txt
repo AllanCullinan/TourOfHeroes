@@ -1,0 +1,14 @@
+C:\DEIMOS_SRC\DSP.DEIMOS.B2B.LOGISTICS\DSP.DEIMOS.B2B.LOGISTICS\TourOfHeroes\bin\Debug\netcoreapp2.1\TourOfHeroes.deps.json
+C:\DEIMOS_SRC\DSP.DEIMOS.B2B.LOGISTICS\DSP.DEIMOS.B2B.LOGISTICS\TourOfHeroes\bin\Debug\netcoreapp2.1\TourOfHeroes.runtimeconfig.json
+C:\DEIMOS_SRC\DSP.DEIMOS.B2B.LOGISTICS\DSP.DEIMOS.B2B.LOGISTICS\TourOfHeroes\bin\Debug\netcoreapp2.1\TourOfHeroes.runtimeconfig.dev.json
+C:\DEIMOS_SRC\DSP.DEIMOS.B2B.LOGISTICS\DSP.DEIMOS.B2B.LOGISTICS\TourOfHeroes\bin\Debug\netcoreapp2.1\TourOfHeroes.dll
+C:\DEIMOS_SRC\DSP.DEIMOS.B2B.LOGISTICS\DSP.DEIMOS.B2B.LOGISTICS\TourOfHeroes\bin\Debug\netcoreapp2.1\TourOfHeroes.pdb
+C:\DEIMOS_SRC\DSP.DEIMOS.B2B.LOGISTICS\DSP.DEIMOS.B2B.LOGISTICS\TourOfHeroes\obj\Debug\netcoreapp2.1\TourOfHeroes.csproj.CoreCompileInputs.cache
+C:\DEIMOS_SRC\DSP.DEIMOS.B2B.LOGISTICS\DSP.DEIMOS.B2B.LOGISTICS\TourOfHeroes\obj\Debug\netcoreapp2.1\TourOfHeroes.RazorAssemblyInfo.cache
+C:\DEIMOS_SRC\DSP.DEIMOS.B2B.LOGISTICS\DSP.DEIMOS.B2B.LOGISTICS\TourOfHeroes\obj\Debug\netcoreapp2.1\TourOfHeroes.RazorAssemblyInfo.cs
+C:\DEIMOS_SRC\DSP.DEIMOS.B2B.LOGISTICS\DSP.DEIMOS.B2B.LOGISTICS\TourOfHeroes\obj\Debug\netcoreapp2.1\TourOfHeroes.AssemblyInfoInputs.cache
+C:\DEIMOS_SRC\DSP.DEIMOS.B2B.LOGISTICS\DSP.DEIMOS.B2B.LOGISTICS\TourOfHeroes\obj\Debug\netcoreapp2.1\TourOfHeroes.AssemblyInfo.cs
+C:\DEIMOS_SRC\DSP.DEIMOS.B2B.LOGISTICS\DSP.DEIMOS.B2B.LOGISTICS\TourOfHeroes\obj\Debug\netcoreapp2.1\TourOfHeroes.RazorTargetAssemblyInfo.cache
+C:\DEIMOS_SRC\DSP.DEIMOS.B2B.LOGISTICS\DSP.DEIMOS.B2B.LOGISTICS\TourOfHeroes\obj\Debug\netcoreapp2.1\TourOfHeroes.dll
+C:\DEIMOS_SRC\DSP.DEIMOS.B2B.LOGISTICS\DSP.DEIMOS.B2B.LOGISTICS\TourOfHeroes\obj\Debug\netcoreapp2.1\TourOfHeroes.pdb
+C:\DEIMOS_SRC\DSP.DEIMOS.B2B.LOGISTICS\DSP.DEIMOS.B2B.LOGISTICS\TourOfHeroes\obj\Debug\netcoreapp2.1\TourOfHeroes.csprojAssemblyReference.cache
