@@ -25,6 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="DevExpress.Xpo" Version="18.2.3" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
@@ -33,6 +34,15 @@
   <ItemGroup>
     <TypeScriptCompile Include="Models\hero.ts" />
     <TypeScriptCompile Include="src\app\mock-heroes.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="src\app\PersistentClasses.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="src\PersistentClasses.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
 
 </Project>
